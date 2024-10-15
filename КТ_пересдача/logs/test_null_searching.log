@@ -1,0 +1,10 @@
+INFO ===> Test test_null_searching starts at 2024-10-15 23:25:02.166965
+INFO Browser chrome is opened
+INFO HomePage initialized
+INFO HomePage: Clicked on 'INPUT_SEARCH'
+INFO Element found: ('css selector', 'div.input-group > input.form-control.input-lg')
+INFO HomePage: Entered 'test' into 'INPUT_SEARCH'
+INFO HomePage initialized
+INFO HomePage initialized
+INFO Screenshot saved: test_null_searching_screenshot
+INFO ===> Test test_null_searching ends at 2024-10-15 23:25:08.023234

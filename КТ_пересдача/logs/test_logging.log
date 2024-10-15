@@ -1,0 +1,13 @@
+INFO ===> Test test_logging starts at 2024-10-15 23:24:07.031062
+INFO Browser chrome is opened
+INFO LoginPage initialized
+INFO LoginPage: Clicked on 'INPUT_EMAIL'
+INFO Element found: ('css selector', '#input-email')
+INFO LoginPage: Entered 'testtest@mail.ru' into 'INPUT_EMAIL'
+INFO LoginPage: Clicked on 'INPUT_PASSWORD'
+INFO Element found: ('css selector', '#input-password')
+INFO LoginPage: Entered 'TeStPaSsWoRd' into 'INPUT_PASSWORD'
+INFO LoginPage: Clicked on 'BUTTON_LOGIN'
+INFO LoginPage initialized
+INFO Screenshot saved: test_logging_screenshot
+INFO ===> Test test_logging ends at 2024-10-15 23:24:13.900333

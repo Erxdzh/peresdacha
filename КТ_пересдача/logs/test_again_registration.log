@@ -1,0 +1,26 @@
+INFO ===> Test test_again_registration starts at 2024-10-15 23:24:40.089663
+INFO Browser chrome is opened
+INFO RegistrationPage initialized
+INFO RegistrationPage: Clicked on 'INPUT_FIRSTNAME'
+INFO Element found: ('css selector', '#input-firstname')
+INFO RegistrationPage: Entered 'test' into 'INPUT_FIRSTNAME'
+INFO RegistrationPage: Clicked on 'INPUT_LASTNAME'
+INFO Element found: ('css selector', '#input-lastname')
+INFO RegistrationPage: Entered 'test' into 'INPUT_LASTNAME'
+INFO RegistrationPage: Clicked on 'INPUT_EMAIL'
+INFO Element found: ('css selector', '#input-email')
+INFO RegistrationPage: Entered 'testtest@mail.ru' into 'INPUT_EMAIL'
+INFO RegistrationPage: Clicked on 'INPUT_TELEPHONE'
+INFO Element found: ('css selector', '#input-telephone')
+INFO RegistrationPage: Entered '88005553535' into 'INPUT_TELEPHONE'
+INFO RegistrationPage: Clicked on 'INPUT_PASSWORD'
+INFO Element found: ('css selector', '#input-password')
+INFO RegistrationPage: Entered 'TeStPaSsWoRd' into 'INPUT_PASSWORD'
+INFO RegistrationPage: Clicked on 'INPUT_CONFIRM'
+INFO Element found: ('css selector', '#input-confirm')
+INFO RegistrationPage: Entered 'TeStPaSsWoRd' into 'INPUT_CONFIRM'
+INFO RegistrationPage: Clicked on 'BUTTON_AGREE_POLITIC'
+INFO RegistrationPage: Clicked on 'BUTTON_LOGIN'
+INFO RegistrationPage initialized
+INFO Screenshot saved: test_again_registration_screenshot
+INFO ===> Test test_again_registration ends at 2024-10-15 23:24:48.404746

@@ -1,0 +1,26 @@
+[32mINFO    [0m test_again_registration:conftest.py:33 ===> Test test_again_registration starts at 2024-10-15 23:24:40.089663
+[32mINFO    [0m test_again_registration:conftest.py:53 Browser chrome is opened
+[32mINFO    [0m test_again_registration:BasePage.py:17 RegistrationPage initialized
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'INPUT_FIRSTNAME'
+[32mINFO    [0m test_again_registration:BasePage.py:43 Element found: ('css selector', '#input-firstname')
+[32mINFO    [0m test_again_registration:BasePage.py:64 RegistrationPage: Entered 'test' into 'INPUT_FIRSTNAME'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'INPUT_LASTNAME'
+[32mINFO    [0m test_again_registration:BasePage.py:43 Element found: ('css selector', '#input-lastname')
+[32mINFO    [0m test_again_registration:BasePage.py:64 RegistrationPage: Entered 'test' into 'INPUT_LASTNAME'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'INPUT_EMAIL'
+[32mINFO    [0m test_again_registration:BasePage.py:43 Element found: ('css selector', '#input-email')
+[32mINFO    [0m test_again_registration:BasePage.py:64 RegistrationPage: Entered 'testtest@mail.ru' into 'INPUT_EMAIL'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'INPUT_TELEPHONE'
+[32mINFO    [0m test_again_registration:BasePage.py:43 Element found: ('css selector', '#input-telephone')
+[32mINFO    [0m test_again_registration:BasePage.py:64 RegistrationPage: Entered '88005553535' into 'INPUT_TELEPHONE'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'INPUT_PASSWORD'
+[32mINFO    [0m test_again_registration:BasePage.py:43 Element found: ('css selector', '#input-password')
+[32mINFO    [0m test_again_registration:BasePage.py:64 RegistrationPage: Entered 'TeStPaSsWoRd' into 'INPUT_PASSWORD'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'INPUT_CONFIRM'
+[32mINFO    [0m test_again_registration:BasePage.py:43 Element found: ('css selector', '#input-confirm')
+[32mINFO    [0m test_again_registration:BasePage.py:64 RegistrationPage: Entered 'TeStPaSsWoRd' into 'INPUT_CONFIRM'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'BUTTON_AGREE_POLITIC'
+[32mINFO    [0m test_again_registration:BasePage.py:53 RegistrationPage: Clicked on 'BUTTON_LOGIN'
+[32mINFO    [0m test_again_registration:BasePage.py:17 RegistrationPage initialized
+[32mINFO    [0m test_again_registration:BasePage.py:27 Screenshot saved: test_again_registration_screenshot
+[32mINFO    [0m test_again_registration:conftest.py:57 ===> Test test_again_registration ends at 2024-10-15 23:24:48.404746

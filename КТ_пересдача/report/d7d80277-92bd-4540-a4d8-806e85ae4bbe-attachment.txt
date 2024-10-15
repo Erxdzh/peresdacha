@@ -1,0 +1,10 @@
+[32mINFO    [0m test_searching:conftest.py:33 ===> Test test_searching starts at 2024-10-15 23:24:52.464590
+[32mINFO    [0m test_searching:conftest.py:53 Browser chrome is opened
+[32mINFO    [0m test_searching:BasePage.py:17 HomePage initialized
+[32mINFO    [0m test_searching:BasePage.py:53 HomePage: Clicked on 'INPUT_SEARCH'
+[32mINFO    [0m test_searching:BasePage.py:43 Element found: ('css selector', 'div.input-group > input.form-control.input-lg')
+[32mINFO    [0m test_searching:BasePage.py:64 HomePage: Entered 'iphone' into 'INPUT_SEARCH'
+[32mINFO    [0m test_searching:BasePage.py:17 HomePage initialized
+[32mINFO    [0m test_searching:BasePage.py:17 HomePage initialized
+[32mINFO    [0m test_searching:BasePage.py:27 Screenshot saved: test_searching_screenshot
+[32mINFO    [0m test_searching:conftest.py:57 ===> Test test_searching ends at 2024-10-15 23:24:58.099661

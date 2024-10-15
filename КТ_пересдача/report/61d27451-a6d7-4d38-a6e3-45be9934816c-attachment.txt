@@ -1,0 +1,13 @@
+[32mINFO    [0m test_logging:conftest.py:33 ===> Test test_logging starts at 2024-10-15 23:24:07.031062
+[32mINFO    [0m test_logging:conftest.py:53 Browser chrome is opened
+[32mINFO    [0m test_logging:BasePage.py:17 LoginPage initialized
+[32mINFO    [0m test_logging:BasePage.py:53 LoginPage: Clicked on 'INPUT_EMAIL'
+[32mINFO    [0m test_logging:BasePage.py:43 Element found: ('css selector', '#input-email')
+[32mINFO    [0m test_logging:BasePage.py:64 LoginPage: Entered 'testtest@mail.ru' into 'INPUT_EMAIL'
+[32mINFO    [0m test_logging:BasePage.py:53 LoginPage: Clicked on 'INPUT_PASSWORD'
+[32mINFO    [0m test_logging:BasePage.py:43 Element found: ('css selector', '#input-password')
+[32mINFO    [0m test_logging:BasePage.py:64 LoginPage: Entered 'TeStPaSsWoRd' into 'INPUT_PASSWORD'
+[32mINFO    [0m test_logging:BasePage.py:53 LoginPage: Clicked on 'BUTTON_LOGIN'
+[32mINFO    [0m test_logging:BasePage.py:17 LoginPage initialized
+[32mINFO    [0m test_logging:BasePage.py:27 Screenshot saved: test_logging_screenshot
+[32mINFO    [0m test_logging:conftest.py:57 ===> Test test_logging ends at 2024-10-15 23:24:13.900333
